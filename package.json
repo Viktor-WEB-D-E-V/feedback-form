@@ -5,7 +5,7 @@
   "homepage": "https://Viktor-WEB-D-E-V.github.io/feedback-form",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel/",
+    "build": "parcel build src/*.html --public-url /feedback-form/",
     "deploy": "gh-pages -d dist",
     "predeploy": "npm run build"
   },
